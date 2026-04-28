@@ -1,4 +1,5 @@
-# 💫 About Me:
+# 
+About Me:
 ClearPass – Smart Academic Clearance System<br>(React.js + Node.js + Express + MySQL)<br><br>Building role-based authentication (Student | Teacher | Admin)<br><br>Developing dynamic dashboards with real-time status tracking<br><br>Full-stack web development projects<br><br>Academic workflow automation systems<br><br>Open-source education technology platforms<br><br>React + Node.js based applications<br><br>Advanced backend architecture design<br><br>Secure API development & optimization<br><br>Cloud deployment (AWS / Azure)<br><br>Performance optimization for scalable systems<br><br>Advanced System Design<br><br>Cloud Computing & DevOps<br><br>Database optimization techniques<br><br>Secure authentication (JWT, OAuth)<br><br>React.js & Node.js development<br><br>MySQL database design<br><br>Role-based authentication systems<br><br>Academic software automation<br><br>Operating Systems & System Programming<br><br>I love turning real-world academic processes into smart digital systems <br><br>I debug better with coffee 
 
 
