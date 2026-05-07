@@ -1,7 +1,18 @@
 # 
 About Me:
 Definitely not coding right now 
+🎓 3rd year CSE student at MIT ADT University  
+🔭 Currently building full-stack web apps with React & Node.js  
+🌱 Exploring System Design and DSA for placements  
+💼 Open to internships and placement opportunities (2025–26)
 
+## Featured Projects
+| Project | Description | Tech Stack |
+|---|---|---|
+| [ragflow-docs](https://github.com/Sanidhyavyas/ragflow-docs) | Multi-modal RAG system — upload PDFs, images & text, ask questions, get cited LLM answers | Python, LangChain, ChromaDB, Groq (LLaMA 3.3 70B), Streamlit |
+| [ClearPass](https://github.com/Sanidhyavyas/ClearPass) | Role-based term grant slip automator | JavaScript, Node.js |
+| [Shopee](https://github.com/Sanidhyavyas/Shopee) | Bakery inventory management system | JavaScript, MongoDB |
+| [Flask Weather](https://github.com/Sanidhyavyas/Flask_weather) | Weather app built with Flask | Python, Flask, HTML |
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sanidhya_.vyas1803) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sanidhya Vyas) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/akasandvlr) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Sanidhyavyas1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanidhya.svyas@gmail.com) 
