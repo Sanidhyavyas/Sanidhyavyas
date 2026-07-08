@@ -4,7 +4,7 @@ Definitely not coding right now
 🎓 3rd year CSE student at MIT ADT University  
 🔭 Currently building full-stack web apps with React & Node.js  
 🌱 Exploring System Design and DSA for placements  
-💼 Open to internships and placement opportunities (2025–26)
+💼 Open to internships and placement opportunities (2026–27)
 
 ## Featured Projects
 | Project | Description | Tech Stack |
